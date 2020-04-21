@@ -11,6 +11,8 @@ PAPR systems are built to work with a set of components from a specific vendor m
 
 The PAPR-adapter project's goal is to provide adapters between different PAPR components to allow them to work together. This allows groups with multiple PAPR units and older/alternative PAPR hoods in their inventory the option of using hoods from one vendor on another vendor's PAPR. This is not typically allowed or considered best practice however in the context of COVID-19 the increased access to limited supply of in-hand PPE is more important.
 
+> USE AT YOUR OWN RISK - THIS IS A STOP-GAP SOLUTION
+
 The PAPR adapter project has helped solve the following adaption problems:
 
 * Bullard Mask to 3M Hose
@@ -25,9 +27,10 @@ The PAPR adapter project has helped solve the following adaption problems:
 # Bullard Mask to 3M Hose
 This adapts the round 3M PAPR hose to the bayonet-style socket on the Bullard mask/hood.  It allows Bullard Masks to be used with 3M PAPR units.
 
-Mask side: Bullard PAPR hood
+Mask side: Bullard PAPR hood - port adapter style like Bullard PA30 units.
 
-Hose side: 3M Versaflo PAPR hose (3M part numbers BT-20, BT-30, or BT-40)
+Hose side: 3M Versaflo PAPR hose
+  3M part numbers: BT-20, BT-30, or BT-40 like used in 3M Versaflo TR-6710N.
 
 ![Top: bayonet-style Bullard mask connector.  Bottom: 3M hose connector.](Bullard_Mask_to_3M_Hose/part-200x.jpg)
 
