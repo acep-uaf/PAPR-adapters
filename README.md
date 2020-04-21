@@ -15,13 +15,15 @@ The PAPR-adapter project's goal is to provide adapters between different PAPR co
 
 The PAPR adapter project has helped solve the following adaption problems:
 
-* Bullard Mask to 3M Hose
+- **Bullard Mask to 3M Hose**:  
   2008 era Bullard Hoods to 3M Versaflo PAPR hose
-* Bullard Hose replacement
+
+- **Bullard Hose replacement**
   Hose connector replacement for older Bullard PAPR units due to breakage of the connector.
-* _coming soon:_ 3M Versaflo Hose to older 3M hoods_
-* 3M Hood port
-* Bullard hood port
+
+- **3M Versaflo Hose to older 3M hoods** -  _coming soon_
+- **3M Hood port** - _coming soon_
+- **Bullard hood port** - _coming soon_
 
 
 # Bullard Mask to 3M Hose
