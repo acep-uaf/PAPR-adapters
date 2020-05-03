@@ -15,13 +15,15 @@ The PAPR-adapter project's goal is to provide adapters between different PAPR co
 
 The PAPR adapter project has helped solve the following adaption problems:
 
-- **Bullard Mask to 3M Hose**:  
+- **Bullard Mask to 3M Hose**
   2008 era Bullard Hoods to 3M Versaflo PAPR hose
 
 - **Bullard Hose replacement**
   Hose connector replacement for older Bullard PAPR units due to breakage of the connector.
 
-- **3M Versaflo Hose to older 3M hoods** -  _coming soon_
+- **3M Older BE Hood to Newer 3M Versaflo Hose**
+  Adapt older BE-10 or BE-12 snap-in hood to newer BT-20, BT-30, or BT-40 type clip-on hose.
+
 - **3M Hood port** - _coming soon_
 - **Bullard hood port** - _coming soon_
 
@@ -45,9 +47,15 @@ Hose side: Bullard PAPR hose
 
 ![Top: bayonet-style Bullard mask connector.  Bottom: corrugated Bullard hose connector.](Bullard_Hose_Replacement/printable-200x.jpg)
 
-# 3M Versaflo Hose to older 3M hoods
+# 3M "BE Type" Mask to 3M Clip-On Hose
+This plugs into:
 
-__Coming soon__
+Mask side: Older 3M BE-12 or BE-10 snap-in type mask (normally used with unique 3M BE-224 hose).
+
+Hose side: Newer 3M BT-20, BT-30, or BT-40 clip-on type hose.
+
+![Top: 3M clip-on type hose connector.  Bottom: 3M snap-in mask connector.](3M_BE_to_3M_Hose/part-200x.jpg)
+
 
 # Sanitization and Safe Use
 These parts were designed during the 2020 national COVID-19 crisis as emergency replacement parts to get PAPR units into service.  If you fabricate these parts, they MUST to be checked for material, strength, and dimensional compatibility with the PAPR machines used.  
