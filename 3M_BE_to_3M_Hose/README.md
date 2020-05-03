@@ -5,7 +5,7 @@ This plugs into:
 
 3M BT-20, BT-30, or BT-40 clip-on type hose.
 
-![Top: 3M clip-on type hose connector.  Bottom: 3M snap-in mask connector.](part-200x.jpg)
+![Top: 3M clip-on type hose connector.  Bottom: 3M snap-in mask connector.](part-200px.jpg)
 
 
 The SLDPRT SolidWorks original was designed by Benjamin Loeffler <bhloeffler@alaska.edu>. 
